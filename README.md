@@ -82,6 +82,8 @@
 
 14. After a few seconds, the list of students appears in the console window. Notice that there are two new student records at the bottom of the list, and Student 1 is missing from the list. Also notice that the salary of the teacher is now **$101,000**.
 
+![20487D_Images](https://github.com/ialcaidef/Demonstration-CRUD-Operations-in-Entity-Framework/blob/master/01.png)
+
 15. Notice the Structured Query Language (SQL) update, and delete and insert statements that correspond to the salary update, student record deletion, and the addition of the two new student records.
 
 16. To stop the application, in the command prompt press Ctrl+C.
